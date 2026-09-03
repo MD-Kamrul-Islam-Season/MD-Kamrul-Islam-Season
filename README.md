@@ -1,19 +1,19 @@
 <p align="center">
   <img src="./banner.png" alt="Aspiring Web Developer Banner" width="100%">
 </p>
-## Hi there 👋
+## Hi 👋, I'm Mohammad Kamrul Islam Season
 
-<!--
-**MD-Kamrul-Islam-Season/MD-Kamrul-Islam-Season** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on HTML,CSS,JavaScript etc.
+- 🌱 I’m currently learning React.js.
+- 👯 I’m looking to collaborate on Frontend projects.
+- 🤔 I’m looking for new opportunities. 
+- 💬 Ask me about science and tech.
+- 📫 You can contact with me through email & facebook
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love to watch cartoons😊.
 -->
+### 🛠️ Languages & Core Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
