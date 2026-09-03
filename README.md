@@ -17,3 +17,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
+### 🎨 CSS Frameworks & UI Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+</p>
