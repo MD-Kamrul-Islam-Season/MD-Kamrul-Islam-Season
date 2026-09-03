@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./banner.png" alt="Aspiring Web Developer Banner" width="100%">
 </p>
-## Hi 👋, I'm Mohammad Kamrul Islam Season
+ Hi 👋, I'm Mohammad Kamrul Islam Season
 
 - 🔭 I’m currently working on HTML,CSS,JavaScript etc.
 - 🌱 I’m currently learning React.js.
