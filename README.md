@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm MD. Kamrul Islam Season</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Kamrul Islam Season</h1>
 
 <h3 align="center">
   💻 Aspiring Frontend Developer from Bangladesh
