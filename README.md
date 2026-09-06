@@ -70,8 +70,8 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://facebook.com/](https://www.facebook.com/share/1FGsuAQghp/" target="_blank">
-    <img src="fb.png" width="40" height="40" />
+  <a href="https://www.facebook.com/share/1FGsuAQghp/" target="_blank">
+    <img src="./fb.png" width="40" height="40" />
   </a>
 </p>
 
